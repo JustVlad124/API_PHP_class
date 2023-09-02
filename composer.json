@@ -1,0 +1,8 @@
+{
+    "name": "vlad/test-api",
+    "autoload": {
+        "psr-4": {
+            "TestAPI\\": "src/"
+        }
+    }
+}
